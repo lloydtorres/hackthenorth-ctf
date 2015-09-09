@@ -1,6 +1,7 @@
 ## hackthenorth-ctf
 
-Hack the North held a CTF event from September 6-8, 2015 which consisted of hacking puzzles we needed to solve.
+Hack the North held a CTF event from September 6-8, 2015 which consisted of hacking puzzles we needed to solve. You can read 
+all about it on my [log post](http://lloydtorres.com/log/literally-hacking-hack-the-north-ctf/) at my website.
 
 This repo contains some of the scripts I wrote to solve them.
 

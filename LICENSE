@@ -1,6 +1,6 @@
-**NOTE**: This license does not apply to `./python-scripts/securehash`. It's a binary provided by the CTF event organizers (i.e. not prepared by me).
+NOTE: This license does not apply to "./python-scripts/securehash".
+It's a binary provided by the CTF event organizers (i.e. not prepared by me).
 
-```
 The MIT License (MIT)
 
 Copyright (c) 2015 Lloyd Torres
