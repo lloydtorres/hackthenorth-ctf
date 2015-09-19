@@ -43,3 +43,13 @@ It took about an hour for this script to find the original string.
 ### ./python-scripts/securehash
 
 This was the securehash program provided during the CTF. This is not by me, but my scripts rely on it.
+
+### ./ctf2/decypher.py
+
+This script was used for the second Hack the North CTF ([read about it here](http://lloydtorres.com/log/more-hacks-hack-the-north-ctf-two/)). 
+The script reads through the file grid1to26 and decrypts it based on the method described in the CTF Two log post. It then uses 
+NumPy to change the basis of the specified vectors, then uses the changed vectors to find the password from the grid.
+
+### ./ctf2/grid1to26
+
+The grid that decypher reads and decrypts. This was provided by the CTF admins.
